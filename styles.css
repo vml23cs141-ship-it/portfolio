@@ -1,0 +1,40 @@
+body {
+    background-color:rgb(121, 103, 121) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Box {
+    background-color: rgba(100, 25, 21, 0.762);
+    height: 500px;
+    width: 500px;
+    align-content: center;
+    text-align: center;
+   
+}
+
+img{
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+    align-items: center;
+    margin: 0 auto;
+}
+.txt{
+    color: black;
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    align-items: center;
+    text-align: center;
+}
+button{
+    background: green;
+    height: 50px;
+    width: 100px;
+    border: none;
+    
+}
